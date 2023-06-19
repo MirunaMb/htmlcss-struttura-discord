@@ -3,3 +3,128 @@ body{
     margin:0;
     padding: 0;
 }
+header{
+    min-height: 150px;
+    background-color: rgb(182, 215, 228);
+
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.container1{
+    display: flex;
+    min-height: 200px;
+    background-color: rgb(0, 0, 133);
+    justify-content: center;
+    align-items: center;
+}
+
+.pink1{
+    background-color: rgb(224, 135, 232);
+    height: 150px;
+    width: 500px;
+
+}
+.flex{
+    display: flex;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    margin: 25px;
+}
+.blue1{
+    background-color:rgb(65, 142, 247);
+    height:300px ;
+    width: 600px;
+}
+
+.pink2{
+    background-color:rgb(245, 195, 203);
+    height: 300px;
+    width: 350px;
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    margin: 25px 0;
+    background-color: rgb(196, 192, 192);
+}.container4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    margin: 25px 0;
+    background-color: rgb(196, 192, 192);
+}
+.green{
+    background-color:green;
+    height: 800px;
+    width: 1000px;
+    margin: 25px 0;
+}
+
+.container5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color:rgb(36, 49,42);
+    
+}
+.pink3{
+    background-color:rgb(225, 134, 131);
+    height: 500px;
+    width: 350px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.blue2{
+    background-color:aquamarine;
+    height: 500px;
+    width: 700px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.grey{
+    width: auto;
+    height: 2px;
+    background-color: grey;
+}
+.container6{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    min-height: 100px;
+    background-color:rgb(36, 49,42); 
+}
+.blue3{
+    display: flex;
+    background-color: rgb(160,252,214);
+    justify-content: center;
+    align-items: space-between;
+    width: 1050px;
+    height: 70px;
+    
+}
+.logo{
+    display: flex;
+    background-color: rgb(244,185, 194);
+    height: 25px;
+}
+.bottone{
+    display: flex;
+    background-color: rgb(244,185, 194);
+    width: 50px;
+    height: 25px;
+    margin-left: 968px;
+    
+    
+}
